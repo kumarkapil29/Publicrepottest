@@ -1,0 +1,11 @@
+{
+    "name": "hello",
+    "description": "Description",
+    "rules": [
+        {
+            "id": "LC0021",
+            "action": "None",
+            "justification": "Justification"
+        }
+    ]
+}
